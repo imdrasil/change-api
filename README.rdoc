@@ -1,0 +1,3 @@
+== README
+
+This is just a test application of Coins problems. Nothing interesting for general case.

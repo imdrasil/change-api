@@ -1,0 +1,2 @@
+ChangeApi::Application.config.secret_token = '25525253dcd238d2b70a524e3d37716d009e5cc0fdcd08cafca45c43d379ecfc55cb66da1
+14a635761c01076269c94e5ba99e5774e2ea8110ff7c73f7bab6f22'

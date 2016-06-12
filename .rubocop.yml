@@ -1,0 +1,9 @@
+Metrics/LineLength:
+  Max: 120
+AllCops:
+  Exclude:
+  - db/**/*
+  - bin/**/*
+Lint/HandleExceptions:
+  Exclude:
+  - app/interactions/**/*
